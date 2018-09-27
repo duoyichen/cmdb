@@ -7,15 +7,14 @@
 
 开发环境：Windows10 + Python3.5 + PyCharm5<br>
 系统架构：Python3.5 + sqlite3 + Django1.10 + AdminLTE  
-<br><br>
+<br>
 
 #### 登录界面：
 ![P20180928002224.png](/img/P20180928002224.png)
-<br><br>
+<br>
 
 
-#### Django后台管理： 
-
+#### Django后台管理：
 ![P20180928002341.png](/img/P20180928002341.png)  
 
 
