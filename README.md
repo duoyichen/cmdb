@@ -10,10 +10,9 @@
 * 项目架构：Python3.5 + sqlite3 + Django2.1 + AdminLTE
 <br>
 
-'''
+
 #### 1. 登录界面：
 ![P20180928002224.png](/img/P20180928002224.png)
-'''
 
 
 #### 2. Django后台管理：
